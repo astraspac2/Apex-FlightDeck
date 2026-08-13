@@ -2,6 +2,7 @@
 
 A simple kOS script for Kerbal Space Program that prints live flight stats
 straight to the in-game terminal — no plugins, no dependencies, just kerboscript.
+We also have a Discord Server for more stuff and even some sneak peeks ete, if you wished to join the kink is here [Apex FlightDeck](https://discord.gg/9KJWW3JS6n)
 
 ## Features
 
@@ -57,3 +58,5 @@ out with this project.
 ---
 
 *Still early — more stats, more polish, more to come.*
+*Owner: astra.spac2.*
+.

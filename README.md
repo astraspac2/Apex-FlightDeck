@@ -13,7 +13,16 @@ you're climbing or descending at a glance.
 switching to the map view.
 * **Fuel readout** — remaining liquid fuel shown directly on the terminal.
 * **Throttle display** — shows current throttle input in real time.
+* **Delta-V (vacuum & ASL), orbit period, heading & pitch** — extra stats for
+more detailed flight monitoring.
 * **Mission time** — tracks elapsed time since the script started running.
+* **Menu-driven interface** — navigate between Stats, About, Settings, and
+Attitude pages with simple keyboard controls.
+* **Attitude display** — a visual readout of your rocket's current orientation.
+* **Settings page** — adjust refresh rate, toggle HTML export, and set
+auto-return timing.
+* **HTML export** — flight stats can be exported to an HTML file, viewable
+outside the KSP terminal.
 * Lightweight — runs entirely in kOS with no external tools or plugins required.
 
 ## Requirements
@@ -36,19 +45,11 @@ Ships/
 
 3. Launch KSP, load it onto your vessel's kOS CPU part (can also be your capsule etc), and run it from the terminal. Or put the file into the boot folder.
 
-## Status / Known issues
+## Status
 
-This script is in early development (Beta 1). Expect some rough edges — not
-everything is fully polished yet, and some readouts may need further tuning
-as testing continues.
-
-## Planned / Roadmap
-
-* **Beta 1** — Core stats readout: altitude, speed, vertical speed, apoapsis/periapsis, fuel, throttle, mission time.
-* **Beta 2** — More stats displayed, plus cleaner terminal formatting and layout.
-* **Beta 3** — Planned HTML export/output for the dashboard, viewable outside the KSP terminal.
-* **Beta 4** — Continued work on the HTML output, with more customization options for what gets shown.
-* **Beta 5** — Final beta before full release, general polish, bug fixes, and last round of changes.
+Apex FlightDeck is under active development. Stats, menus, settings, an
+attitude display, and HTML export are all in place, with more features and
+polish planned for future updates.
 
 ## Credits
 
@@ -59,4 +60,3 @@ out with this project.
 
 *Still early — more stats, more polish, more to come.*
 *Owner: astra.spac2.*
-.

@@ -4,6 +4,19 @@ A simple kOS script for Kerbal Space Program that prints live flight stats
 straight to the in-game terminal — no plugins, no dependencies, just kerboscript.
 We also have a Discord Server for more stuff and even some sneak peeks etc, if you wished to join the link is here [Apex FlightDeck](https://discord.gg/JFYSJ2JujR)
 
+<details>
+<summary>Images, Click to see more! </summary>
+Beta 1 
+<img width="1582" height="695" alt="Screenshot 2026-08-11 222524" src="https://github.com/user-attachments/assets/efcb96ae-3e9f-4efe-aca4-157386e63ac6" />
+
+
+Beta 2
+<img width="1887" height="661" alt="Screenshot 2026-08-23 142633" src="https://github.com/user-attachments/assets/06d4f161-70cd-452e-8b7c-0ee2bac017d2" />
+
+Beta 3
+Coming Soon...
+</details>
+
 ## Features
 
 * **Live altitude readout** — current altitude updated continuously as you fly.
